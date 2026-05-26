@@ -34,8 +34,6 @@
 <p align="center">
   <a href="https://www.dreamfield.top">DreamField AI 算力平台</a>
   <span>&nbsp;&middot;&nbsp;</span>
-  <a href="https://www.dreamfield.top">DreamSeed 活动入口</a>
-  <span>&nbsp;&middot;&nbsp;</span>
   <a href="./.github/ABOUT_DREAMFIELD.md">平台介绍</a>
   <span>&nbsp;&middot;&nbsp;</span>
   <a href="./.github/ABOUT_DREAMSEED.md">活动介绍</a>
@@ -46,8 +44,6 @@
 ---
 
 > **本仓库参加 [DreamSeed 种梦计划 — AI创造者大赛](https://www.dreamfield.top)**
->
-> 活动编号 `dreamfield-ai-open-source-contest-2026` &nbsp;|&nbsp; 活动入口 [https://www.dreamfield.top](https://www.dreamfield.top)
 
 ---
 
