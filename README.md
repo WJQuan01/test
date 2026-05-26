@@ -33,17 +33,14 @@
 
 <p align="center">
   <a href="https://www.dreamfield.top">DreamField AI 算力平台</a>
-  <span>&nbsp;&middot;&nbsp;</span>
-  <a href="./.github/ABOUT_DREAMFIELD.md">平台介绍</a>
-  <span>&nbsp;&middot;&nbsp;</span>
-  <a href="./.github/ABOUT_DREAMSEED.md">活动介绍</a>
-  <span>&nbsp;&middot;&nbsp;</span>
-  <a href="./.github/PLEDGE.md">参赛承诺</a>
 </p>
 
 ---
 
 > **本仓库参加 [DreamSeed 种梦计划 — AI创造者大赛](https://www.dreamfield.top)**
+
+- [DreamField AI 算力平台介绍](./.github/ABOUT_DREAMFIELD.md) — 模型定价、支持平台、平台优势
+- [DreamSeed 种梦计划活动介绍](./.github/ABOUT_DREAMSEED.md) — 赛事规则、奖励设置、参赛流程
 
 ---
 
