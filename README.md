@@ -13,7 +13,7 @@
 <!-- DREAMFIELD_README_HEADER_START -->
 <p align="center">
   <a href="https://www.dreamfield.top">
-    <img src="./assets/dreamseed-readme-banner.svg" alt="{{项目名称}} - DreamSeed 种梦计划参赛作品" width="100%" />
+    <img src="./assets/dreamseed-readme-banner.png" alt="{{项目名称}} - DreamSeed 种梦计划参赛作品" width="100%" />
   </a>
 </p>
 
